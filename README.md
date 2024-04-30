@@ -7,7 +7,6 @@
   - Blockchain/Crypto
   -  Data Science
   -  Cyber Counterintelligence
-  -  Infosec
 
 
 <!---
