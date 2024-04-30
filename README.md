@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeremy.
-- 👀 I’m interested in Information Warfare/Operations, Python, Rust, Linux, Blockchain/Crypto, Data Science, and Infosec.
+- 👀 I’m interested in Information Warfare/Operations, Python, Rust, Linux, Blockchain/Crypto, Data Science, Cyber Counterintelligence, and Infosec.
 - 🌱 I’m currently a graduate student (Master of Data Science) at the University of Pittsburgh. 
 
 <!---
