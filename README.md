@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremy.
 - 🌱 I’m currently a graduate student (Master of Data Science) at the University of Pittsburgh. 
 - 👀 I’m interested in:
-  - Information Warfare/Operations
+  - Information Warfare/Operations/Cognitive Warfare
   -  Cyber Counterintelligence
   -  Data Science
   - Python/Rust
