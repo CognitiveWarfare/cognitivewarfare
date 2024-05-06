@@ -2,11 +2,13 @@
 - 🌱 I’m currently a graduate student (Master of Data Science) at the University of Pittsburgh. 
 - 👀 I’m interested in:
   - Information Warfare/Operations
+  -  Cyber Counterintelligence
+  -  Data Science
   - Python/Rust
   - Linux
   - Blockchain/Crypto
-  -  Data Science
-  -  Cyber Counterintelligence
+  
+  
 
 
 <!---
