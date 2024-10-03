@@ -3,8 +3,7 @@
 - 🎓 I'm also a student in the Information Warfare program at the University of Arizona. 
 - 👀 I’m interested in:
   - Information Warfare/Operations/Cognitive Warfare
-  -  Cyber Counterintelligence
-  -  Data Science
+  - Cyber Counterintelligence
   - Python/Rust
   - Linux
   - Blockchain/Crypto
